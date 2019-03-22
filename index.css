@@ -1,0 +1,40 @@
+.container{
+    background-color:#81c784;
+}
+
+.from-group{
+margin-block-start:5px;
+}
+
+.form-control{
+    background-color:lightgray;
+}
+#InputName{
+    border:solid black 1px;
+}
+#InputName1{
+    border-block-end-style: groove;
+    border:lightgreen;
+}
+.input-text{
+    width: 100%;
+height: 60px;
+border: 1px;
+font-size: 1.143rem;
+padding: 0 50px;
+    padding-left: 50px;
+background-color: #f6f6f6;
+}
+.mail-bg{
+    background-image: url();
+}
+.fingerprint-bg{
+    background-image: url();
+}
+/*CSS Used In Sign-In Html Page*/
+.brand-logo{
+    border-color: black;
+}
+.input-field{
+    background-color: antiquewhite;
+}
